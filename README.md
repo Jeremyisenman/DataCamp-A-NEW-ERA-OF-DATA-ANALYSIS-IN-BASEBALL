@@ -1,3 +1,4 @@
+TESTING 1234
 # 🧠 Project Title -- MLB Statcast Data -- Judge VS Stanton 2018
 
 > A concise summary of the project, its goals, and its impact. -------------------
@@ -54,20 +55,4 @@ Outline the steps taken in the project:
 7. Evaluation
 
 ---
-
-## 📈 Exploratory Data Analysis
-
-Include visualizations and statistical summaries that help understand the data.
-
-Examples:
-- Distribution plots
-- Correlation heatmaps
-- Boxplots for outliers
-
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-sns.heatmap(df.corr(), annot=True)
-plt.show()
 
