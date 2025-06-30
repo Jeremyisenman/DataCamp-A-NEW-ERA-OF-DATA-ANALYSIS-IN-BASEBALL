@@ -56,19 +56,3 @@ Outline the steps taken in the project:
 
 ---
 
-## 📈 Exploratory Data Analysis
-
-Include visualizations and statistical summaries that help understand the data.
-
-Examples:
-- Distribution plots
-- Correlation heatmaps
-- Boxplots for outliers
-
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-sns.heatmap(df.corr(), annot=True)
-plt.show()
-
